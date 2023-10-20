@@ -20,7 +20,9 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 A pretrained LLM is first instructed with chain-of-thought prompting to generate a set of modularised solutions. Generated sub-modules are then extracted from potentially correct solutions and grouped into different semantic clusters. The cluster centroids are selected as representative sub-modules to condition the next self-revision round. The model is instructed to reuse or adapt these modules into its revised solutions.
 
 ## Installation
-TBD
+The code requires some dependencies as specified in `requirements.txt`. Please follow the relevant libraries to install or run: 
+
+`pip install -r requirements.txt`
 
 ## Datasets
 TBD
