@@ -6,11 +6,11 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 
 ### Contents:
 * [x] [CodeChain Overview](#codechain-overview)
-* [x] [Installation](#installation)
-* [x] [Datasets](#datasets)
-* [x] [Generate code with CoT prompting](#generate-code-with-cot-prompting)
-* [x] [Self-Revise generated code](#self-revise-generated-code)
-* [x] [Evaluating Generated Code](#evaluating-generated-code)
+* [ ] [Installation](#installation)
+* [ ] [Datasets](#datasets)
+* [ ] [Generate code with CoT prompting](#generate-code-with-cot-prompting)
+* [ ] [Self-Revise generated code](#self-revise-generated-code)
+* [ ] [Evaluating Generated Code](#evaluating-generated-code)
 * [x] [Citation](#citation)
 
 ## CodeChain Overview  
