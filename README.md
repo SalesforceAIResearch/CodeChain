@@ -20,14 +20,19 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 A pretrained LLM is first instructed with chain-of-thought prompting to generate a set of modularised solutions. Generated sub-modules are then extracted from potentially correct solutions and grouped into different semantic clusters. The cluster centroids are selected as representative sub-modules to condition the next self-revision round. The model is instructed to reuse or adapt these modules into its revised solutions.
 
 ## Installation
+TBD
 
 ## Datasets
+TBD
 
 ## Generate code with CoT prompting 
+TBD
 
 ## Self-Revise generated code 
+TBD
 
 ## Evaluating generated code 
+TBD
 
 ## Citation   
 If you find the paper or the source code useful to your projects, please cite the following bibtex: 
