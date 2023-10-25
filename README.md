@@ -8,7 +8,7 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 * [x] [CodeChain Overview](#codechain-overview)
 * [x] [Setup](#setup)
 * [x] [Datasets](#datasets)
-* [x] [Generate and evaluate output code](#generate-and-evaluate-output-code)
+* [x] [Generate and evaluate code](#generate-and-evaluate-code)
 * [x] [Citation](#citation)
 * [x] [License](#license)
 
