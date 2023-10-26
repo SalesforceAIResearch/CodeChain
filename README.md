@@ -6,8 +6,7 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 
 ### Contents:
 * [x] [CodeChain Overview](#codechain-overview)
-* [x] [Setup](#setup)
-* [x] [Datasets](#datasets)
+* [x] [Setup Datasets and Models](#setup-datasets-and-models)
 * [x] [Generate and evaluate code](#generate-and-evaluate-code)
 * [x] [Citation](#citation)
 * [x] [License](#license)
@@ -18,7 +17,7 @@ Authors: [Hung Le](https://scholar.google.com/citations?user=jnYI1UgAAAAJ&hl=en)
 </p>
 A pretrained LLM is first instructed with chain-of-thought prompting to generate a set of modularised solutions. Generated sub-modules are then extracted from potentially correct solutions and grouped into different semantic clusters. The cluster centroids are selected as representative sub-modules to condition the next self-revision round. The model is instructed to reuse or adapt these modules into its revised solutions.
 
-## Setup 
+## Setup Datasets and Models
 
 If you have conda ready, just run to install dependencies:
 
