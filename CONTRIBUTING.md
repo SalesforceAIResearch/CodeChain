@@ -5,19 +5,12 @@ This page lists the operational governance model of this project, as well as the
 
 # Governance Model
 
+For this project, please follow the community-based governance model below.
+
 ## Community Based
 
 The intent and goal of open sourcing this project is to increase the contributor and user base. The governance model is one where new project leads (`admins`) will be added to the project based on their contributions and efforts, a so-called "do-acracy" or "meritocracy" similar to that used by all Apache Software Foundation projects.
 
-
-## Salesforce Sponsored
-
-The intent and goal of open sourcing this project is to increase the contributor and user base. However, only Salesforce employees will be given `admin` rights and will be the final arbitrars of what contributions are accepted or not.
-
-
-## Published but not supported
-
-The intent and goal of open sourcing this project is because it may contain useful or interesting code/concepts that we wish to share with the larger open source community. Although occasional work may be done on it, we will not be looking for or soliciting contributions.
 
 # Issues, requests & ideas
 
